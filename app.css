@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+}
+body {
+    font-size: 1.5em;
+    background-color: #FDEBC4;
+}
+.row {
+    background-color: rgba(245, 245, 245, 0.877);
+}
+
+.row>div {
+    border: 1px solid #ddd;
+}
+
+h1, h4 {
+    text-align: center;
+}
+li {
+    font-size: 0.7em;
+     list-style: none;
+}
